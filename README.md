@@ -1,38 +1,43 @@
-# NumPy Basics
 
-This project documents my learning journey with **NumPy**, a powerful Python library for numerical computations. Below is a summary of key concepts and examples that I explored.
+# **NumPy Practice**
 
-## Concepts Covered:
+This repository contains my daily practice and exercises related to **NumPy**, focusing on understanding its features and applications in data manipulation and scientific computing.
 
-1. **What is NumPy?**
-   - NumPy (Numerical Python) is a library for working with arrays and matrices, providing high-performance operations on large datasets.
+## **Topics Covered**
+1. **Introduction to NumPy**
+   - What is NumPy?
+   - Difference between lists and NumPy arrays.
+2. **Creating NumPy Arrays**
+   - 1D, 2D, 3D, and higher-dimensional arrays.
+   - Array initialization with zeros, ones, and random values.
+3. **Array Indexing and Slicing**
+   - Accessing elements and subarrays.
+   - Conditional filtering.
+4. **Array Operations**
+   - Arithmetic operations.
+   - Broadcasting and reshaping arrays.
+5. **Aggregate Functions**
+   - Mean, median, standard deviation, and sum.
+6. **Linear Algebra with NumPy**
+   - Dot products and matrix multiplication.
+7. **Advanced Concepts**
+   - Stacking and splitting arrays.
+   - Working with NumPy's `arange` and `linspace`.
 
-2. **Difference Between Lists and NumPy Arrays**
-   - NumPy arrays are more efficient for numerical operations and consume less memory compared to Python lists.
+## **Requirements**
+- Python 3.8+
+- NumPy library
 
-3. **NumPy Array Creation**
-   - Explored the creation of:
-     - 1D arrays
-     - 2D arrays
-     - 3D arrays
-     - Higher-dimensional arrays
+## **Installation**
+To run the code, install NumPy:
+```bash
+pip install numpy
+```
 
-4. **Practical Examples:**
-   - Creating arrays with `numpy.array()`
-   - Generating arrays using `numpy.zeros()`, `numpy.ones()`, `numpy.arange()`, and `numpy.linspace()`
-   - Reshaping arrays with `numpy.reshape()`
+## **Contribution**
+Feel free to fork the repository, add your own exercises, and open pull requests to share your practice problems.
 
-
-## Tools and Libraries Used:
-- **Python**
-- **NumPy**
-
-## How to Run:
-1. Clone the repository.
-2. Install NumPy using `pip install numpy` if not already installed.
-3. Run the Python script to see the outputs of various array operations.
-
-## Learning Goals:
-- Continue practicing NumPy operations alongside Python and Pandas.
-- Share daily progress and code on GitHub to track learning milestones.
+## **References**
+- [NumPy Documentation](https://numpy.org/doc/stable/)
+- [NumPy Cheat Sheet](https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet)
 
