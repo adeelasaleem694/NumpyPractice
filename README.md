@@ -39,5 +39,5 @@ Feel free to fork the repository, add your own exercises, and open pull requests
 
 ## **References**
 - [NumPy Documentation](https://numpy.org/doc/stable/)
-- [NumPy Cheat Sheet](https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet)
+
 
